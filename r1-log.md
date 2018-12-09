@@ -7,7 +7,7 @@ The log of my #100DaysOfCode challenge. Started on [Dec 08, Saturday, 2018].
 ### R1D1 
 <strong>Day 1</strong>: Dec 08, 2018. Monday
 
-<strong>Today's Progress</strong>: Solved the DrumKit Challenge from the Javascript30.
+<strong>Today's Progress</strong>: Solved the DrumKit Challenge from the <a href="https://javascript30.com/" target="_blank">Javascript30</a>.
 
 <strong>Learnt</strong>: KeyBoard Events , Audio Handling
   
@@ -17,9 +17,9 @@ The log of my #100DaysOfCode challenge. Started on [Dec 08, Saturday, 2018].
 <hr/>
 
 
-<strong>Day 2</strong>: Dec 09,2018. Monday
+<strong>Day 2</strong>: Dec 09, 2018. Monday
 
-<strong>Today's Progress</strong>: complated Basic CSS part of Responsive Web Design Certification @ <a href="https://www.freecodecamp.org" target="_blank">FreeCodeCamp</a>.
+<strong>Today's Progress</strong>: completed Basic CSS part of Responsive Web Design Certification @ <a href="https://www.freecodecamp.org" target="_blank">FreeCodeCamp</a>.
 
 <strong>Learnt</strong>: CSS Variable, Media Query and Mutliple Classes and !Important KeyWord.
   
