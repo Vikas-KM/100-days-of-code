@@ -5,7 +5,7 @@ The log of my #100DaysOfCode challenge. Started on [Dec 08, Saturday, 2018].
 ## Log
 
 ### R1D1 
-<strong>Day 1</strong>: Dec 08, 2018. Monday
+<strong>Day 1</strong>: Dec 08, 2018. Saturday
 
 <strong>Today's Progress</strong>: Solved the DrumKit Challenge from the <a href="https://javascript30.com/" target="_blank">Javascript30</a>.
 
@@ -17,7 +17,7 @@ The log of my #100DaysOfCode challenge. Started on [Dec 08, Saturday, 2018].
 <hr/>
 
 
-<strong>Day 2</strong>: Dec 09, 2018. Monday
+<strong>Day 2</strong>: Dec 09, 2018. Sunday
 
 <strong>Today's Progress</strong>: completed Basic CSS part of Responsive Web Design Certification @ <a href="https://www.freecodecamp.org" target="_blank">FreeCodeCamp</a>.
 
@@ -26,6 +26,22 @@ The log of my #100DaysOfCode challenge. Started on [Dec 08, Saturday, 2018].
 <strong>Thoughts</strong>: Progressing and learning, long way ahead.
 
 <strong>Link to work</strong>: <a href="https://www.freecodecamp.org/vikaskm" rel="nofollow">Basic CSS</a>
+<hr/>
+
+
+<strong>Day 3</strong>: Dec 10, 2018. Monday
+
+<strong>Today's Progress</strong>: completed Applied Visual Design section of Responsive Web Design Certification @ <a href="https://www.freecodecamp.org" target="_blank">FreeCodeCamp</a>, Also completed the JS and CSS clock from the <a href="https://javascript30.com/" target="_blank">Javascript30</a> challenge.
+
+
+<strong>Learnt</strong>: Learnt lot of things today - opacity, transform, transition, complementary colors, 
+animation, keyframes and Bezier Curves.
+  
+<strong>Thoughts</strong>: CSS Animations are awesome, creativity is the limit.
+
+<strong>Link to work</strong>:<br/>
+<a href="https://www.freecodecamp.org/vikaskm" rel="nofollow">Applied Visual Design</a><br/>
+<a href="https://github.com/Vikas-KM/JavaScript30/tree/master/02%20-%20JS%20and%20CSS%20Clock" rel="nofollow">JS and CSS Clock</a>
 <hr/>
 
 
