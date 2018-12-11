@@ -45,5 +45,21 @@ animation, keyframes and Bezier Curves.
 <hr/>
 
 
+<strong>Day 4</strong>: Dec 11, 2018. Tuesday
+
+<strong>Today's Progress</strong>: completed Applied Accessibility section and Responsive Web Design Principles of Responsive Web Design Certification @ <a href="https://www.freecodecamp.org" target="_blank">FreeCodeCamp</a>, Also completed Playing with CSS variables and JS from the <a href="https://javascript30.com/" target="_blank">Javascript30</a> challenge.
+
+
+<strong>Learnt</strong>: Learnt lot of things today - Screen Reader compatitbility, fieldset, date, custom screen reader CSS, colorblindness, contrast text, keyaccess, MediaQuery, tabIndex.<br/>
+CSS variables, dataset, documentElement
+
+  
+<strong>Thoughts</strong>: Accessibility is Important and responsiveness design is the future.
+
+<strong>Link to work</strong>:<br/>
+<a href="https://www.freecodecamp.org/vikaskm" rel="nofollow">Applied Accessibility and Responsive Web Design Principles</a><br/>
+<a href="https://github.com/Vikas-KM/JavaScript30/tree/master/03%20-%20CSS%20Variables" rel="nofollow">CSS Variable and JS</a>
+<hr/>
+
 
 ### R1D2
