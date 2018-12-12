@@ -49,16 +49,30 @@ animation, keyframes and Bezier Curves.
 
 <strong>Today's Progress</strong>: completed Applied Accessibility section and Responsive Web Design Principles of Responsive Web Design Certification @ <a href="https://www.freecodecamp.org" target="_blank">FreeCodeCamp</a>, Also completed Playing with CSS variables and JS from the <a href="https://javascript30.com/" target="_blank">Javascript30</a> challenge.
 
-
 <strong>Learnt</strong>: Learnt lot of things today - Screen Reader compatitbility, fieldset, date, custom screen reader CSS, colorblindness, contrast text, keyaccess, MediaQuery, tabIndex.<br/>
 CSS variables, dataset, documentElement
-
   
 <strong>Thoughts</strong>: Accessibility is Important and responsiveness design is the future.
 
 <strong>Link to work</strong>:<br/>
 <a href="https://www.freecodecamp.org/vikaskm" rel="nofollow">Applied Accessibility and Responsive Web Design Principles</a><br/>
 <a href="https://github.com/Vikas-KM/JavaScript30/tree/master/03%20-%20CSS%20Variables" rel="nofollow">CSS Variable and JS</a>
+<hr/>
+
+
+<strong>Day 5</strong>: Dec 12, 2018. Wednesday
+
+<strong>Today's Progress</strong>: completed CSS Flexbox section and CSS Grid section of Responsive Web Design Certification @ <a href="https://www.freecodecamp.org" target="_blank">FreeCodeCamp</a>, and completed Array Cardio exercise from the <a href="https://javascript30.com/" target="_blank">Javascript30</a> challenge.Also did first project - <a href="https://codepen.io/VIkasKM/full/roVgBW" target="_blank">Build a Tribute Page</a>
+
+<strong>Learnt</strong>: Learnt lot of things today - CSS Flex and CSS Grid.<br/>
+ES6 Javascript Functions like map(), reduce(), filter(), sort(), DOM Manipulation, Spread Operator, Rest Operator and Destructuring
+  
+<strong>Thoughts</strong>: CSS Flex and Grid are amazing and need more practice, The Array Cardio is an amazing exercise which gives handson experience with the ES6 functions.
+
+<strong>Link to work</strong>:<br/>
+<a href="https://www.freecodecamp.org/vikaskm" rel="nofollow">CSS Flexbox and CSS Grid</a><br/>
+<a href="https://github.com/Vikas-KM/JavaScript30/tree/master/04%20-%20Array%20Cardio%20Day%201" rel="nofollow">Array Cardio</a><br/>
+<a href="https://codepen.io/VIkasKM/full/roVgBW" target="_blank">Build a Tribute Page</a>
 <hr/>
 
 
