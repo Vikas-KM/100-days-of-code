@@ -76,4 +76,34 @@ ES6 Javascript Functions like map(), reduce(), filter(), sort(), DOM Manipulatio
 <hr/>
 
 
+
+<strong>Day 6</strong>: Dec 13, 2018. Thursday
+
+<strong>Today's Progress</strong>: Started with Basic Javascript section of Javascript Algorithms And Data Structures Certification @ <a href="https://www.freecodecamp.org" target="_blank">FreeCodeCamp</a>, and did second project - <a href="https://codepen.io/VIkasKM/pen/GPpYoY" target="_blank">Build a Survey Form</a>
+
+<strong>Learnt</strong>: form building and input types.<br/>
+revised the basic javascript
+  
+<strong>Thoughts</strong>: Kept referring back while building , need to master lot of things.
+
+<strong>Link to work</strong>:<br/>
+<a href="https://www.freecodecamp.org/vikaskm" rel="nofollow">Basic Javascript</a><br/>
+<a href="https://codepen.io/VIkasKM/pen/GPpYoY" target="_blank">Build a Survey Form</a>
+<hr/>
+
+
+
+<strong>Day 7</strong>: Dec 14, 2018. Friday
+
+<strong>Today's Progress</strong>: Continued with Basic Javascript section of Javascript Algorithms And Data Structures Certification @ <a href="https://www.freecodecamp.org" target="_blank">FreeCodeCamp</a>.
+
+<strong>Learnt</strong>: Javascript Objects.<br/>
+  
+<strong>Thoughts</strong>: did Javascripts Objects problems solving but still a long way to go to master the language.
+
+<strong>Link to work</strong>:<br/>
+<a href="https://www.freecodecamp.org/vikaskm" rel="nofollow">Basic Javascript</a><br/>
+<hr/>
+
+
 ### R1D2
